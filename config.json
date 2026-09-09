@@ -17,7 +17,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "Kirara",
-    "PREFIX": "/",
+    "PREFIX": "!",
     "ADMINBOT": [
         "61578581225040",
         "100001039692046",
