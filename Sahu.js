@@ -1,1 +1,1665 @@
-function _0x302f(_0x3cc2e9,_0x1d6297){const _0x55c20f=_0x52c4();return _0x302f=function(_0x344073,_0x181f27){_0x344073=_0x344073-(0x1*0x117d+-0x805*0x1+-0x1c*0x53);let _0x2e7228=_0x55c20f[_0x344073];return _0x2e7228;},_0x302f(_0x3cc2e9,_0x1d6297);}const _0x374ef=_0x302f;(function(_0x1975eb,_0x44465b){const _0x4e6f72=_0x302f,_0x1b632=_0x1975eb();while(!![]){try{const _0x2a3621=-parseInt(_0x4e6f72(0xa1))/(-0xa7*0x17+-0xc78+0x1b7a)+-parseInt(_0x4e6f72(0x6d))/(-0x231c+0xece+0x1450)*(-parseInt(_0x4e6f72(0x9c))/(0x2211+0x1*-0x61d+0x1bf1*-0x1))+-parseInt(_0x4e6f72(0xab))/(0x1052+0x1*0x1834+0x2882*-0x1)+parseInt(_0x4e6f72(0x64))/(-0x2410+-0x64f+-0x4*-0xa99)+parseInt(_0x4e6f72(0x71))/(-0xffd*0x1+-0x2346+0x3349)*(parseInt(_0x4e6f72(0x82))/(0x2*-0x1f3+-0x120c+-0xf*-0x177))+parseInt(_0x4e6f72(0xa9))/(-0x22cd+0x4*-0x7f3+-0x1cd*-0x25)*(-parseInt(_0x4e6f72(0xae))/(0x3*-0x8e4+0x1466+0x64f))+-parseInt(_0x4e6f72(0xb1))/(-0xae7*0x1+-0x1254+0x1d45)*(parseInt(_0x4e6f72(0xb2))/(0x92b+-0x45*0x8b+0x1c57));if(_0x2a3621===_0x44465b)break;else _0x1b632['push'](_0x1b632['shift']());}catch(_0x1c2389){_0x1b632['push'](_0x1b632['shift']());}}}(_0x52c4,-0x6db7*-0x5+-0xd9bd*0x3+0x4*0xab8c));const {spawn}=require(_0x374ef(0xc5)+_0x374ef(0x7b)),axios=require(_0x374ef(0x99)),logger=require(_0x374ef(0x91)+'g'),express=require(_0x374ef(0x73)),path=require(_0x374ef(0x74)),app=express(),port=process[_0x374ef(0x6f)][_0x374ef(0x88)]||0x1*0x1871+-0x1*-0x2a19+0x16*-0x197;function _0x52c4(){const _0x309687=['Server\x20err','842075YSHLmq','Permission','YAHzD','[\x20DESCRIPT','--async-st','error','/package.j','son','https://ra','2ZVLjFA','tJXLF','env','[\x20Stopped\x20','88482AdaGgf','countResta','express','path','ION\x20]','vVpCh','at-sahu/SH','GPEeg','AHzEs','message','ess','ercontent.','lUZhI','[\x20VERSION\x20','Bot\x20exited','sPoYj','join','133pMgwxF','stringify','\x20restarts.','ccurred:\x20','pbwEO','xcyxZ','PORT','okKUC','ohiIn','running\x20on','CeSHa','vfVyv','\x20to\x20port\x20','annot\x20bind','listen','./utils/lo','[\x20Restarti','descriptio','close','get','zcnoD','[\x20Starting','SVeUT','axios','yFWOa','te\x20info:\x20','307569ebcBpV','TvARt','EACCES','[\x20Error\x20]','HfKoN','84134eqeGRD','snqem','version','\x20denied.\x20C','ybRji','ljtMf','/5)','rnings','8IyNBMy','AFZvL','149076cDawCR','data','then','1596654KraDAg','--trace-wa','code','20DDGQKJ','568953njyGPA','/index.htm','Bot\x20stoppe','ng...\x20(','name','sDnrj','T-BOT/main','\x20with\x20code','xzTpg','SOYJQ','Version:\x20','.\x20Restarti','ack-traces','w.githubus','inherit','vPWRc','AHADAT-CHA','ng\x20]','Failed\x20to\x20','child_proc','\x20port\x20','ekeFP','An\x20error\x20o','catch','or:\x20','Server\x20is\x20','node','nhzTG','nqAbx','AEbsm','[\x20NAME\x20]','Main.js','rror\x20]','...','sendFile','jLrfF','com/shahad','oqrvG','fetch\x20upda','[\x20Update\x20E','d\x20after\x20'];_0x52c4=function(){return _0x309687;};return _0x52c4();}app[_0x374ef(0x95)]('/',function(_0x53dc08,_0x29d53f){const _0x518376=_0x374ef,_0x16ffed={'jLrfF':_0x518376(0xb3)+'l'};_0x29d53f[_0x518376(0xd4)](path[_0x518376(0x81)](__dirname,_0x16ffed[_0x518376(0xd5)]));}),app[_0x374ef(0x90)](port,()=>{const _0x147a6d=_0x374ef,_0x12c386={'SVeUT':function(_0x4df8ce,_0x1980b6,_0x5cab15){return _0x4df8ce(_0x1980b6,_0x5cab15);},'AFZvL':_0x147a6d(0x97)+'\x20]'};_0x12c386[_0x147a6d(0x98)](logger,_0x147a6d(0xcb)+_0x147a6d(0x8b)+_0x147a6d(0xc6)+port+_0x147a6d(0xd3),_0x12c386[_0x147a6d(0xaa)]);})['on'](_0x374ef(0x69),_0x5f4b66=>{const _0x109240=_0x374ef,_0x33f8fc={'CeSHa':function(_0x229484,_0x198b27){return _0x229484===_0x198b27;},'SOYJQ':_0x109240(0x9e),'lUZhI':function(_0x51bf37,_0x3247e9,_0x9e60b0){return _0x51bf37(_0x3247e9,_0x9e60b0);},'AEbsm':_0x109240(0x9f)};_0x33f8fc[_0x109240(0x8c)](_0x5f4b66[_0x109240(0xb0)],_0x33f8fc[_0x109240(0xbb)])?_0x33f8fc[_0x109240(0x7d)](logger,_0x109240(0x65)+_0x109240(0xa4)+_0x109240(0x8f)+_0x109240(0x8e)+port+'.',_0x33f8fc[_0x109240(0xcf)]):_0x33f8fc[_0x109240(0x7d)](logger,_0x109240(0xdb)+_0x109240(0xca)+_0x5f4b66[_0x109240(0x7a)],_0x33f8fc[_0x109240(0xcf)]);}),global[_0x374ef(0x72)+'rt']=global[_0x374ef(0x72)+'rt']||0x106c*0x1+0x1509+-0x1*0x2575;function startBot(_0x8cd26d){const _0x30114a=_0x374ef,_0x129da3={'pbwEO':function(_0x2fb029,_0x4fb4da){return _0x2fb029!==_0x4fb4da;},'sDnrj':function(_0x4c8b86,_0x3328fb){return _0x4c8b86<_0x3328fb;},'ybRji':function(_0x13d343,_0x3e441a,_0x9ab2d9){return _0x13d343(_0x3e441a,_0x9ab2d9);},'vPWRc':_0x30114a(0x92)+_0x30114a(0xc3),'tJXLF':function(_0x38de88){return _0x38de88();},'HfKoN':function(_0x1364b0,_0x1408fa,_0x5aefc4){return _0x1364b0(_0x1408fa,_0x5aefc4);},'YAHzD':_0x30114a(0x70)+']','nhzTG':_0x30114a(0x9f),'vfVyv':function(_0x2044dc,_0x53b8be,_0x7e3949){return _0x2044dc(_0x53b8be,_0x7e3949);},'AHzEs':_0x30114a(0x97)+'\x20]','snqem':function(_0x5844f1,_0x47ba29,_0x1a9a83,_0x53a366){return _0x5844f1(_0x47ba29,_0x1a9a83,_0x53a366);},'xzTpg':_0x30114a(0xcc),'vVpCh':_0x30114a(0xaf)+_0x30114a(0xa8),'oqrvG':_0x30114a(0x68)+_0x30114a(0xbe),'yFWOa':_0x30114a(0xd1),'xcyxZ':_0x30114a(0xc0),'ekeFP':_0x30114a(0x94),'ljtMf':_0x30114a(0x69)};if(_0x8cd26d)_0x129da3[_0x30114a(0x8d)](logger,_0x8cd26d,_0x129da3[_0x30114a(0x79)]);const _0x1c9280=_0x129da3[_0x30114a(0xa2)](spawn,_0x129da3[_0x30114a(0xba)],[_0x129da3[_0x30114a(0x76)],_0x129da3[_0x30114a(0xd7)],_0x129da3[_0x30114a(0x9a)]],{'cwd':__dirname,'stdio':_0x129da3[_0x30114a(0x87)],'shell':!![]});_0x1c9280['on'](_0x129da3[_0x30114a(0xc7)],_0x2ce859=>{const _0x3762be=_0x30114a;_0x129da3[_0x3762be(0x86)](_0x2ce859,-0x758+0x222f+-0x1*0x1ad7)&&_0x129da3[_0x3762be(0xb7)](global[_0x3762be(0x72)+'rt'],0xd44+-0x2*0x360+0x1*-0x67f)?(global[_0x3762be(0x72)+'rt']+=-0x22ed+0x17be+0xb30,_0x129da3[_0x3762be(0xa5)](logger,_0x3762be(0x7f)+_0x3762be(0xb9)+'\x20'+_0x2ce859+(_0x3762be(0xbd)+_0x3762be(0xb5))+global[_0x3762be(0x72)+'rt']+_0x3762be(0xa7),_0x129da3[_0x3762be(0xc1)]),_0x129da3[_0x3762be(0x6e)](startBot)):_0x129da3[_0x3762be(0xa0)](logger,_0x3762be(0xb4)+_0x3762be(0xda)+global[_0x3762be(0x72)+'rt']+_0x3762be(0x84),_0x129da3[_0x3762be(0x66)]);}),_0x1c9280['on'](_0x129da3[_0x30114a(0xa6)],_0x2ada96=>{const _0x1552b4=_0x30114a;_0x129da3[_0x1552b4(0xa5)](logger,_0x1552b4(0xc8)+_0x1552b4(0x85)+JSON[_0x1552b4(0x83)](_0x2ada96),_0x129da3[_0x1552b4(0xcd)]);});};axios[_0x374ef(0x95)](_0x374ef(0x6c)+_0x374ef(0xbf)+_0x374ef(0x7c)+_0x374ef(0xd6)+_0x374ef(0x77)+_0x374ef(0xc2)+_0x374ef(0xb8)+_0x374ef(0x6a)+_0x374ef(0x6b))[_0x374ef(0xad)](_0x3a7ed9=>{const _0x3a8015=_0x374ef,_0x4cbb86={'zcnoD':function(_0x310a43,_0x18e3b7,_0x40cdef){return _0x310a43(_0x18e3b7,_0x40cdef);},'GPEeg':_0x3a8015(0xd0),'ohiIn':_0x3a8015(0x7e)+']','TvARt':function(_0x8e979a,_0x354ae6,_0x762b8c){return _0x8e979a(_0x354ae6,_0x762b8c);},'nqAbx':_0x3a8015(0x67)+_0x3a8015(0x75)};_0x4cbb86[_0x3a8015(0x96)](logger,_0x3a7ed9[_0x3a8015(0xac)][_0x3a8015(0xb6)],_0x4cbb86[_0x3a8015(0x78)]),_0x4cbb86[_0x3a8015(0x96)](logger,_0x3a8015(0xbc)+_0x3a7ed9[_0x3a8015(0xac)][_0x3a8015(0xa3)],_0x4cbb86[_0x3a8015(0x8a)]),_0x4cbb86[_0x3a8015(0x9d)](logger,_0x3a7ed9[_0x3a8015(0xac)][_0x3a8015(0x93)+'n'],_0x4cbb86[_0x3a8015(0xce)]);})[_0x374ef(0xc9)](_0x3823ae=>{const _0x6453f3=_0x374ef,_0x19883e={'sPoYj':function(_0x4b18b2,_0x4c6ded,_0x262234){return _0x4b18b2(_0x4c6ded,_0x262234);},'okKUC':_0x6453f3(0xd9)+_0x6453f3(0xd2)};_0x19883e[_0x6453f3(0x80)](logger,_0x6453f3(0xc4)+_0x6453f3(0xd8)+_0x6453f3(0x9b)+_0x3823ae[_0x6453f3(0x7a)],_0x19883e[_0x6453f3(0x89)]);}),startBot();
+const express = require("express");
+const app = express();
+const chalk = require("chalk");
+const cron = require("node-cron");
+const moment = require("moment-timezone");
+
+const port = process.env.PORT || 8000;
+
+// ═══════════════════════════════════════════════
+//           HINA — HELLGATE UPTIME PAGE
+// ═══════════════════════════════════════════════
+
+app.get("/", (req, res) => {
+    res.send(`
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>HINA BOT</title>
+</head>
+<body>
+    <h1>HINA BOT</h1>
+    <p>Bot is online.</p>
+</body>
+</html>
+    `);
+});
+
+app.listen(port, () => {
+    console.log(
+        chalk.cyan(
+            `📡 Health check server is running on port ${port}`
+        )
+    );
+});
+
+// ═══════════════════════════════════════════════
+// لا يتم حذف بيانات البوت عند إعادة التشغيل
+// ═══════════════════════════════════════════════
+
+console.log(
+    chalk.bold.hex("#00FA9A")(
+        "[ DATA ] » تم الحفاظ على بيانات البوت وعدم حذفها عند التشغيل"
+    )
+);
+
+// ═══════════════════════════════════════════════
+//           SYSTEM FILES
+// ═══════════════════════════════════════════════
+
+const {
+    readdirSync,
+    readFileSync,
+    writeFileSync,
+    existsSync,
+    unlinkSync
+} = require("fs-extra");
+
+const {
+    join,
+    resolve
+} = require("path");
+
+const logger = require("./utils/log.js");
+const login = require("hut-chat-api");
+const axios = require("axios");
+
+// ═══════════════════════════════════════════════
+// INITIALIZATION
+// ═══════════════════════════════════════════════
+
+console.log(
+    chalk.bold.hex("#03f0fc")(
+        "[ HINA ] » "
+    ) +
+    chalk.bold.hex("#fcba03")(
+        "Initializing variables..."
+    )
+);
+
+// ═══════════════════════════════════════════════
+// GLOBAL CLIENT
+// ═══════════════════════════════════════════════
+
+global.client = new Object({
+
+    commands: new Map(),
+
+    events: new Map(),
+
+    cooldowns: new Map(),
+
+    eventRegistered: new Array(),
+
+    handleSchedule: new Array(),
+
+    handleReaction: new Array(),
+
+    handleReply: new Array(),
+
+    mainPath: process.cwd(),
+
+    configPath: new String(),
+
+    // ═══════════════════════════════════════════
+    // LOAD STATISTICS
+    // ═══════════════════════════════════════════
+
+    loadStats: {
+
+        commandsLoaded: 0,
+
+        commandsFailed: 0,
+
+        eventsLoaded: 0,
+
+        eventsFailed: 0,
+
+        totalCommandFiles: 0,
+
+        totalEventFiles: 0,
+
+        failedCommands: [],
+
+        failedEvents: []
+
+    }
+
+});
+
+// ═══════════════════════════════════════════════
+// GLOBAL DATA
+// ═══════════════════════════════════════════════
+
+global.data = new Object({
+
+    threadInfo: new Map(),
+
+    threadData: new Map(),
+
+    userName: new Map(),
+
+    userBanned: new Map(),
+
+    threadBanned: new Map(),
+
+    commandBanned: new Map(),
+
+    threadAllowNSFW: new Array(),
+
+    allUserID: new Array(),
+
+    allCurrenciesID: new Array(),
+
+    allThreadID: new Array()
+
+});
+
+// ═══════════════════════════════════════════════
+// GLOBAL UTILS
+// ═══════════════════════════════════════════════
+
+global.utils = require("./utils/index.js");
+
+global.utils.config =
+    require("./utils/config.js");
+
+global.utils.decorations =
+    require("./utils/decorations.js");
+
+global.nodemodule =
+    new Object();
+
+global.config =
+    new Object();
+
+global.configModule =
+    new Object();
+
+global.moduleData =
+    new Array();
+
+global.language =
+    new Object();
+
+// ═══════════════════════════════════════════════
+// تحميل الإعدادات
+// ═══════════════════════════════════════════════
+
+var configValue;
+
+try {
+
+    global.client.configPath =
+        join(
+            global.client.mainPath,
+            "config.json"
+        );
+
+    configValue =
+        require(
+            global.client.configPath
+        );
+
+    logger.loader(
+        "Found file config: config.json"
+    );
+
+} catch (error) {
+
+    logger.loader(
+        "config.json not found!",
+        "error"
+    );
+
+    process.exit(1);
+
+}
+
+try {
+
+    for (
+        const key in configValue
+    ) {
+
+        global.config[key] =
+            configValue[key];
+
+    }
+
+    logger.loader(
+        "Config Loaded!"
+    );
+
+} catch (error) {
+
+    logger.loader(
+        "Can't load file config!",
+        "error"
+    );
+
+    process.exit(1);
+
+}
+
+// ═══════════════════════════════════════════════
+// DATABASE
+// ═══════════════════════════════════════════════
+
+const {
+    Sequelize,
+    sequelize
+} = require(
+    "./includes/database/index.js"
+);
+
+writeFileSync(
+    global.client.configPath + ".temp",
+    JSON.stringify(
+        global.config,
+        null,
+        4
+    ),
+    "utf8"
+);
+
+// ═══════════════════════════════════════════════
+// تحميل اللغة
+// ═══════════════════════════════════════════════
+
+try {
+
+    const languagePath =
+        `${__dirname}/languages/${global.config.language || "en"}.lang`;
+
+    const langFile =
+        readFileSync(
+            languagePath,
+            {
+                encoding: "utf-8"
+            }
+        ).split(/\r?\n|\r/);
+
+    const langData =
+        langFile.filter(
+            item =>
+                item.indexOf("#") !== 0 &&
+                item !== ""
+        );
+
+    for (
+        const item of langData
+    ) {
+
+        const getSeparator =
+            item.indexOf("=");
+
+        if (
+            getSeparator === -1
+        ) {
+
+            continue;
+
+        }
+
+        const itemKey =
+            item.slice(
+                0,
+                getSeparator
+            );
+
+        const itemValue =
+            item.slice(
+                getSeparator + 1
+            );
+
+        const dotIndex =
+            itemKey.indexOf(".");
+
+        if (
+            dotIndex === -1
+        ) {
+
+            continue;
+
+        }
+
+        const head =
+            itemKey.slice(
+                0,
+                dotIndex
+            );
+
+        const key =
+            itemKey.replace(
+                head + ".",
+                ""
+            );
+
+        const value =
+            itemValue.replace(
+                /\\n/gi,
+                "\n"
+            );
+
+        if (
+            typeof global.language[head] ===
+            "undefined"
+        ) {
+
+            global.language[head] =
+                new Object();
+
+        }
+
+        global.language[head][key] =
+            value;
+
+    }
+
+} catch (error) {
+
+    console.log(
+        "Language Load Error: " +
+        error.message
+    );
+
+}
+
+// ═══════════════════════════════════════════════
+// GET TEXT
+// ═══════════════════════════════════════════════
+
+global.getText = function (...args) {
+
+    try {
+
+        const langText =
+            global.language;
+
+        let text =
+            langText[args[0]][args[1]];
+
+        if (!text) {
+
+            return `[${args[1]}]`;
+
+        }
+
+        for (
+            let i = args.length - 1;
+            i > 0;
+            i--
+        ) {
+
+            const regEx =
+                RegExp(
+                    `%${i}`,
+                    "g"
+                );
+
+            text =
+                text.replace(
+                    regEx,
+                    args[i + 1]
+                );
+
+        }
+
+        return text;
+
+    } catch (error) {
+
+        return `[${args[1]}]`;
+
+    }
+
+};
+
+// ═══════════════════════════════════════════════
+// APPSTATE
+// ═══════════════════════════════════════════════
+
+const appStateFile =
+    resolve(
+        join(
+            global.client.mainPath,
+            global.config.APPSTATEPATH ||
+            "appstate.json"
+        )
+    );
+
+let appState;
+
+if (
+    process.env.APPSTATE
+) {
+
+    try {
+
+        appState =
+            JSON.parse(
+                process.env.APPSTATE
+            );
+
+        logger.loader(
+            "💌 ───『 تم العثور على APPSTATE في إعدادات السيرفر 』─── 💌"
+        );
+
+    } catch (error) {
+
+        logger.loader(
+            "خطأ في تنسيق JSON الخاص بـ APPSTATE!",
+            "error"
+        );
+
+        process.exit(1);
+
+    }
+
+} else {
+
+    try {
+
+        appState =
+            require(
+                appStateFile
+            );
+
+        logger.loader(
+            "💌 ───『 تم العثور على ملف appstate.json محلياً 』─── 💌"
+        );
+
+    } catch (error) {
+
+        logger.loader(
+            "لم يتم العثور على ملف تسجيل الدخول أو متغير البيئة APPSTATE!",
+            "error"
+        );
+
+        process.exit(1);
+
+    }
+
+}
+
+// ═══════════════════════════════════════════════
+// AUTO RECONNECT SYSTEM
+// ═══════════════════════════════════════════════
+
+let reconnectAttempts = 0;
+
+const MAX_RECONNECT_ATTEMPTS = 10;
+
+const INITIAL_RECONNECT_DELAY = 5000;
+
+const MAX_RECONNECT_DELAY = 60000;
+
+let isConnecting = false;
+
+let reconnectTimer = null;
+
+let connectionGeneration = 0;
+
+let activeApi = null;
+
+let isConnected = false;
+
+// ═══════════════════════════════════════════════
+// حساب وقت إعادة الاتصال
+// ═══════════════════════════════════════════════
+
+function getReconnectDelay() {
+
+    const delay =
+        INITIAL_RECONNECT_DELAY *
+        Math.pow(
+            2,
+            Math.max(
+                reconnectAttempts - 1,
+                0
+            )
+        );
+
+    return Math.min(
+        delay,
+        MAX_RECONNECT_DELAY
+    );
+
+}
+
+// ═══════════════════════════════════════════════
+// إلغاء مؤقت إعادة الاتصال
+// ═══════════════════════════════════════════════
+
+function clearReconnectTimer() {
+
+    if (
+        reconnectTimer
+    ) {
+
+        clearTimeout(
+            reconnectTimer
+        );
+
+        reconnectTimer = null;
+
+    }
+
+}
+
+// ═══════════════════════════════════════════════
+// محاولة إيقاف الاتصال القديم
+// ═══════════════════════════════════════════════
+
+function closeOldConnection() {
+
+    if (
+        !activeApi
+    ) {
+
+        return;
+
+    }
+
+    try {
+
+        if (
+            typeof activeApi.stopListening ===
+            "function"
+        ) {
+
+            activeApi.stopListening();
+
+        } else if (
+            typeof activeApi.stopListenMqtt ===
+            "function"
+        ) {
+
+            activeApi.stopListenMqtt();
+
+        }
+
+    } catch (error) {
+
+        console.log(
+            chalk.gray(
+                "[ MQTT ] لا يمكن إيقاف الاتصال القديم: " +
+                error.message
+            )
+        );
+
+    }
+
+    activeApi = null;
+
+    isConnected = false;
+
+}
+
+// ═══════════════════════════════════════════════
+// جدولة إعادة الاتصال
+// ═══════════════════════════════════════════════
+
+function scheduleReconnect(botModel) {
+
+    if (
+        reconnectTimer
+    ) {
+
+        console.log(
+            chalk.gray(
+                "[ MQTT ] توجد بالفعل محاولة إعادة اتصال مجدولة."
+            )
+        );
+
+        return;
+
+    }
+
+    reconnectAttempts++;
+
+    if (
+        reconnectAttempts >
+        MAX_RECONNECT_ATTEMPTS
+    ) {
+
+        console.log(
+            chalk.red(
+                `❌ تم الوصول إلى الحد الأقصى لمحاولات إعادة الاتصال (${MAX_RECONNECT_ATTEMPTS}).`
+            )
+        );
+
+        return;
+
+    }
+
+    const delay =
+        getReconnectDelay();
+
+    console.log(
+        chalk.yellow(
+            `⏳ إعادة الاتصال بعد ${delay / 1000} ثوانٍ — المحاولة ${reconnectAttempts}/${MAX_RECONNECT_ATTEMPTS}`
+        )
+    );
+
+    reconnectTimer =
+        setTimeout(
+            () => {
+
+                reconnectTimer = null;
+
+                onBot({
+                    models: botModel
+                });
+
+            },
+            delay
+        );
+
+}
+
+// ═══════════════════════════════════════════════
+// LOGIN / BOT
+// ═══════════════════════════════════════════════
+
+function onBot({
+    models: botModel
+}) {
+
+    if (
+        isConnecting
+    ) {
+
+        console.log(
+            chalk.gray(
+                "[ MQTT ] توجد محاولة اتصال قيد التنفيذ بالفعل."
+            )
+        );
+
+        return;
+
+    }
+
+    isConnecting = true;
+
+    clearReconnectTimer();
+
+    connectionGeneration++;
+
+    const currentGeneration =
+        connectionGeneration;
+
+    closeOldConnection();
+
+    const loginData = {
+        appState
+    };
+
+    console.log(
+        chalk.cyan(
+            `🔌 محاولة الاتصال بـ Facebook... [${currentGeneration}]`
+        )
+    );
+
+    login(
+        loginData,
+        async (
+            loginError,
+            loginApiData
+        ) => {
+
+            isConnecting = false;
+
+            if (
+                currentGeneration !==
+                connectionGeneration
+            ) {
+
+                console.log(
+                    chalk.gray(
+                        "[ MQTT ] تم تجاهل نتيجة اتصال قديم."
+                    )
+                );
+
+                return;
+
+            }
+
+            // ═══════════════════════════════════
+            // LOGIN ERROR
+            // ═══════════════════════════════════
+
+            if (
+                loginError
+            ) {
+
+                isConnected = false;
+
+                console.error(
+                    chalk.red(
+                        `❌ خطأ في تسجيل الدخول: ${
+                            loginError.message ||
+                            loginError
+                        }`
+                    )
+                );
+
+                scheduleReconnect(
+                    botModel
+                );
+
+                return;
+
+            }
+
+            // ═══════════════════════════════════
+            // LOGIN SUCCESS
+            // ═══════════════════════════════════
+
+            reconnectAttempts = 0;
+
+            clearReconnectTimer();
+
+            activeApi =
+                loginApiData;
+
+            isConnected = true;
+
+            console.log(
+                chalk.green(
+                    "✅ تم تسجيل الدخول بنجاح!"
+                )
+            );
+
+            // ═══════════════════════════════════
+            // OPTIONS
+            // ═══════════════════════════════════
+
+            try {
+
+                loginApiData.setOptions(
+                    global.config.FCAOption
+                );
+
+            } catch (error) {
+
+                console.log(
+                    chalk.yellow(
+                        "[ HINA ] فشل تطبيق FCAOption: " +
+                        error.message
+                    )
+                );
+
+            }
+
+            // ═══════════════════════════════════
+            // حفظ APPSTATE
+            // ═══════════════════════════════════
+
+            try {
+
+                writeFileSync(
+                    appStateFile,
+                    JSON.stringify(
+                        loginApiData.getAppState(),
+                        null,
+                        "\t"
+                    )
+                );
+
+            } catch (error) {
+
+                console.log(
+                    chalk.gray(
+                        "[ APPSTATE ] " +
+                        error.message
+                    )
+                );
+
+            }
+
+            global.config.version =
+                "1.2.14";
+
+            global.client.timeStart =
+                new Date().getTime();
+
+            // ═══════════════════════════════════
+            // تصفير إحصائيات التحميل
+            // ═══════════════════════════════════
+
+            global.client.loadStats = {
+
+                commandsLoaded: 0,
+
+                commandsFailed: 0,
+
+                eventsLoaded: 0,
+
+                eventsFailed: 0,
+
+                totalCommandFiles: 0,
+
+                totalEventFiles: 0,
+
+                failedCommands: [],
+
+                failedEvents: []
+
+            };
+
+            // ═══════════════════════════════════
+            // مسح الخرائط القديمة
+            // ═══════════════════════════════════
+
+            global.client.commands.clear();
+
+            global.client.events.clear();
+
+            // ═══════════════════════════════════
+            // تحميل الأوامر
+            // ═══════════════════════════════════
+
+            const commandsPath =
+                join(
+                    global.client.mainPath,
+                    "script",
+                    "commands"
+                );
+
+            let categories = [];
+
+            try {
+
+                categories =
+                    readdirSync(
+                        commandsPath
+                    ).filter(
+                        item =>
+                            require("fs").statSync(
+                                join(
+                                    commandsPath,
+                                    item
+                                )
+                            ).isDirectory()
+                    );
+
+            } catch (error) {
+
+                console.error(
+                    chalk.red(
+                        "[ COMMANDS ] فشل قراءة مجلد الأوامر: " +
+                        error.message
+                    )
+                );
+
+            }
+
+            for (
+                const category of categories
+            ) {
+
+                const categoryPath =
+                    join(
+                        commandsPath,
+                        category
+                    );
+
+                let listCommand = [];
+
+                try {
+
+                    listCommand =
+                        readdirSync(
+                            categoryPath
+                        ).filter(
+                            command =>
+                                command.endsWith(".js") &&
+                                !(
+                                    Array.isArray(
+                                        global.config.commandDisabled
+                                    )
+                                        ? global.config.commandDisabled
+                                        : []
+                                ).includes(
+                                    command
+                                )
+                        );
+
+                } catch (error) {
+
+                    console.log(
+                        chalk.red(
+                            `[ COMMANDS ] فشل قراءة ${category}: ${error.message}`
+                        )
+                    );
+
+                    continue;
+
+                }
+
+                global.client.loadStats.totalCommandFiles +=
+                    listCommand.length;
+
+                for (
+                    const command of listCommand
+                ) {
+
+                    try {
+
+                        const commandPath =
+                            join(
+                                categoryPath,
+                                command
+                            );
+
+                        const commandModule =
+                            require(
+                                commandPath
+                            );
+
+                        // ═══════════════════════════════
+                        // التحقق من صحة الأمر
+                        // ═══════════════════════════════
+
+                        if (
+                            !commandModule ||
+                            !commandModule.config ||
+                            !commandModule.config.name ||
+                            typeof commandModule.run !==
+                            "function"
+                        ) {
+
+                            throw new Error(
+                                "ملف الأمر لا يحتوي config.name أو run"
+                            );
+
+                        }
+
+                        // ═══════════════════════════════
+                        // تسجيل الأمر
+                        // ═══════════════════════════════
+
+                        global.client.commands.set(
+                            commandModule.config.name,
+                            commandModule
+                        );
+
+                        global.client.loadStats.commandsLoaded++;
+
+                        // ═══════════════════════════════
+                        // تسجيل الأمر كـ Event
+                        // بدون احتسابه كحدث إضافي
+                        // ═══════════════════════════════
+
+                        if (
+                            typeof commandModule.handleEvent ===
+                            "function"
+                        ) {
+
+                            global.client.events.set(
+                                commandModule.config.name,
+                                commandModule
+                            );
+
+                            console.log(
+                                `[EVENT COMMAND] تم تسجيل ${commandModule.config.name} كـ Event`
+                            );
+
+                        }
+
+                        logger.loader(
+                            `🌸『 تـم تحميل: ${commandModule.config.name} 』🌸`
+                        );
+
+                    } catch (error) {
+
+                        global.client.loadStats.commandsFailed++;
+
+                        global.client.loadStats.failedCommands.push({
+
+                            file: command,
+
+                            category: category,
+
+                            reason:
+                                error?.message ||
+                                String(error)
+
+                        });
+
+                        logger.loader(
+                            `Fail load command: ${command}`,
+                            "error"
+                        );
+
+                        console.log(
+                            error
+                        );
+
+                    }
+
+                }
+
+            }
+
+            // ═══════════════════════════════════
+            // تحميل الأحداث
+            // ═══════════════════════════════════
+
+            const eventsPath =
+                join(
+                    global.client.mainPath,
+                    "script",
+                    "events"
+                );
+
+            if (
+                existsSync(
+                    eventsPath
+                )
+            ) {
+
+                let events = [];
+
+                try {
+
+                    events =
+                        readdirSync(
+                            eventsPath
+                        ).filter(
+                            ev =>
+                                ev.endsWith(".js")
+                        );
+
+                } catch (error) {
+
+                    console.log(
+                        chalk.red(
+                            "[ EVENTS ] فشل قراءة الأحداث: " +
+                            error.message
+                        )
+                    );
+
+                    events = [];
+
+                }
+
+                global.client.loadStats.totalEventFiles =
+                    events.length;
+
+                for (
+                    const ev of events
+                ) {
+
+                    try {
+
+                        const eventPath =
+                            join(
+                                eventsPath,
+                                ev
+                            );
+
+                        const event =
+                            require(
+                                eventPath
+                            );
+
+                        // ═══════════════════════════════
+                        // التحقق من صحة الحدث
+                        // ═══════════════════════════════
+
+                        if (
+                            !event ||
+                            !event.config ||
+                            !event.config.name ||
+                            typeof event.handleEvent !==
+                            "function"
+                        ) {
+
+                            throw new Error(
+                                "ملف الحدث لا يحتوي config.name أو handleEvent"
+                            );
+
+                        }
+
+                        // ═══════════════════════════════
+                        // تسجيل الحدث
+                        // ═══════════════════════════════
+
+                        global.client.events.set(
+                            event.config.name,
+                            event
+                        );
+
+                        global.client.loadStats.eventsLoaded++;
+
+                        logger.loader(
+                            `⚡『 تـم تحميل الحدث: ${event.config.name} 』⚡`
+                        );
+
+                    } catch (error) {
+
+                        global.client.loadStats.eventsFailed++;
+
+                        global.client.loadStats.failedEvents.push({
+
+                            file: ev,
+
+                            reason:
+                                error?.message ||
+                                String(error)
+
+                        });
+
+                        logger.loader(
+                            `Fail load event: ${ev}`,
+                            "error"
+                        );
+
+                        console.log(
+                            error
+                        );
+
+                    }
+
+                }
+
+            }
+
+            // ═══════════════════════════════════
+            // LOAD SUMMARY
+            // ═══════════════════════════════════
+
+            const stats =
+                global.client.loadStats;
+
+            const totalLoaded =
+                stats.commandsLoaded +
+                stats.eventsLoaded;
+
+            const totalFailed =
+                stats.commandsFailed +
+                stats.eventsFailed;
+
+            const totalFiles =
+                stats.totalCommandFiles +
+                stats.totalEventFiles;
+
+            logger.loader(
+                `━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+            );
+
+            logger.loader(
+                `🌸 HINA LOADER`
+            );
+
+            logger.loader(
+                `الأوامر المحملة: ${stats.commandsLoaded}`
+            );
+
+            logger.loader(
+                `الأحداث المحملة: ${stats.eventsLoaded}`
+            );
+
+            logger.loader(
+                `الأوامر الفاشلة: ${stats.commandsFailed}`
+            );
+
+            logger.loader(
+                `الأحداث الفاشلة: ${stats.eventsFailed}`
+            );
+
+            logger.loader(
+                `إجمالي المحمل: ${totalLoaded}`
+            );
+
+            logger.loader(
+                `إجمالي الفاشل: ${totalFailed}`
+            );
+
+            logger.loader(
+                `إجمالي الملفات: ${totalFiles}`
+            );
+
+            logger.loader(
+                `━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+            );
+
+            // ═══════════════════════════════════
+            // حذف ملف config المؤقت
+            // ═══════════════════════════════════
+
+            if (
+                existsSync(
+                    global.client.configPath +
+                    ".temp"
+                )
+            ) {
+
+                try {
+
+                    unlinkSync(
+                        global.client.configPath +
+                        ".temp"
+                    );
+
+                } catch (error) {}
+
+            }
+
+            // ═══════════════════════════════════
+            // LISTENER
+            // ═══════════════════════════════════
+
+            const listenerData = {
+
+                api: loginApiData,
+
+                models: botModel
+
+            };
+
+            let listener;
+
+            try {
+
+                listener =
+                    require(
+                        "./includes/listen.js"
+                    )(
+                        listenerData
+                    );
+
+            } catch (error) {
+
+                console.error(
+                    chalk.red(
+                        "❌ فشل تحميل listen.js:"
+                    ),
+                    error
+                );
+
+                isConnected = false;
+
+                scheduleReconnect(
+                    botModel
+                );
+
+                return;
+
+            }
+
+            // ═══════════════════════════════════
+            // MQTT LISTENER
+            // ═══════════════════════════════════
+
+            try {
+
+                loginApiData.listenMqtt(
+                    async (
+                        error,
+                        message
+                    ) => {
+
+                        // ═══════════════════════════════
+                        // تجاهل أحداث اتصال قديم
+                        // ═══════════════════════════════
+
+                        if (
+                            currentGeneration !==
+                            connectionGeneration
+                        ) {
+
+                            return;
+
+                        }
+
+                        // ═══════════════════════════════
+                        // MQTT ERROR
+                        // ═══════════════════════════════
+
+                        if (
+                            error
+                        ) {
+
+                            isConnected = false;
+
+                            console.log(
+                                chalk.red(
+                                    `⚠️ قطع اتصال MQTT: ${
+                                        error.message ||
+                                        error
+                                    }`
+                                )
+                            );
+
+                            if (
+                                activeApi !==
+                                loginApiData
+                            ) {
+
+                                return;
+
+                            }
+
+                            activeApi = null;
+
+                            try {
+
+                                if (
+                                    typeof loginApiData.stopListening ===
+                                    "function"
+                                ) {
+
+                                    loginApiData.stopListening();
+
+                                } else if (
+                                    typeof loginApiData.stopListenMqtt ===
+                                    "function"
+                                ) {
+
+                                    loginApiData.stopListenMqtt();
+
+                                }
+
+                            } catch (
+                                closeError
+                            ) {}
+
+                            console.log(
+                                chalk.yellow(
+                                    "🔄 سيتم إعادة الاتصال بشكل منظم..."
+                                )
+                            );
+
+                            scheduleReconnect(
+                                botModel
+                            );
+
+                            return;
+
+                        }
+
+                        // ═══════════════════════════════
+                        // MESSAGE
+                        // ═══════════════════════════════
+
+                        if (
+                            !message
+                        ) {
+
+                            return;
+
+                        }
+
+                        // ═══════════════════════════════
+                        // HINA LISTENER
+                        // ═══════════════════════════════
+
+                        try {
+
+                            return await listener(
+                                message
+                            );
+
+                        } catch (
+                            listenerError
+                        ) {
+
+                            console.error(
+                                chalk.red(
+                                    "❌ LISTENER ERROR:"
+                                ),
+                                listenerError
+                            );
+
+                        }
+
+                    }
+                );
+
+            } catch (
+                mqttError
+            ) {
+
+                isConnected = false;
+
+                console.error(
+                    chalk.red(
+                        "❌ فشل تشغيل MQTT:"
+                    ),
+                    mqttError
+                );
+
+                activeApi = null;
+
+                scheduleReconnect(
+                    botModel
+                );
+
+                return;
+
+            }
+
+            // ═══════════════════════════════════
+            // API
+            // ═══════════════════════════════════
+
+            global.client.api =
+                loginApiData;
+
+            logger(
+                "HINA ✨",
+                "[ by ayman ]"
+            );
+
+            // ═══════════════════════════════════
+            // رسالة تشغيل البوت
+            // ═══════════════════════════════════
+
+            const timeNow =
+                moment()
+                    .tz("Africa/Casablanca")
+                    .format("HH:mm:ss");
+
+            if (
+                global.config.ADMINBOT &&
+                global.config.ADMINBOT[0]
+            ) {
+
+                try {
+
+                    loginApiData.sendMessage(
+                        `لـقـد تـم تـشـغـيـل الـبـوت فـي ${timeNow} ✅`,
+                        global.config.ADMINBOT[0]
+                    );
+
+                } catch (
+                    error
+                ) {
+
+                    console.log(
+                        chalk.gray(
+                            "[ ADMIN MESSAGE ] " +
+                            error.message
+                        )
+                    );
+
+                }
+
+            }
+
+            // ═══════════════════════════════════
+            // تحديث البايو
+            // ═══════════════════════════════════
+
+            try {
+
+                cron.schedule(
+                    "0 0 */1 * * *",
+                    () => {
+
+                        if (
+                            !activeApi ||
+                            activeApi !==
+                            loginApiData ||
+                            !isConnected
+                        ) {
+
+                            return;
+
+                        }
+
+                        try {
+
+                            const dateStr =
+                                moment()
+                                    .tz("Asia/Manila")
+                                    .format("MM/DD/YYYY");
+
+                            loginApiData.changeBio(
+                                `Prefix: ${
+                                    global.config.PREFIX
+                                }\n\nBot Name: ${
+                                    global.config.BOTNAME
+                                }\nDate: ${
+                                    dateStr
+                                }`
+                            );
+
+                        } catch (
+                            error
+                        ) {
+
+                            console.log(
+                                chalk.gray(
+                                    "[ BIO ] " +
+                                    error.message
+                                )
+                            );
+
+                        }
+
+                    },
+                    {
+                        scheduled: true,
+                        timezone:
+                            "Africa/Casablanca"
+                    }
+                );
+
+            } catch (
+                error
+            ) {
+
+                console.log(
+                    chalk.gray(
+                        "[ CRON ] " +
+                        error.message
+                    )
+                );
+
+            }
+
+            console.log(
+                chalk.green(
+                    "🟢 HINA MQTT connection is active."
+                )
+            );
+
+        }
+    );
+
+}
+
+// ═══════════════════════════════════════════════
+// START BOT
+// ═══════════════════════════════════════════════
+
+(async () => {
+
+    try {
+
+        await sequelize.authenticate();
+
+        console.log(
+            chalk.green(
+                "✅ Database connection established."
+            )
+        );
+
+        const models =
+            require(
+                "./includes/database/model.js"
+            )({
+                Sequelize,
+                sequelize
+            });
+
+        onBot({
+            models
+        });
+
+    } catch (
+        error
+    ) {
+
+        console.log(
+            chalk.red(
+                "❌ Database Error:"
+            )
+        );
+
+        console.log(
+            error
+        );
+
+        logger(
+            "DB Error",
+            "error"
+        );
+
+    }
+
+    console.log(
+        chalk.bold.hex("#eff1f0")(
+            "════════════════ SUCCESFULLY ═════════════════"
+        )
+    );
+
+})();
+
+// ═══════════════════════════════════════════════
+// ERROR HANDLING
+// ═══════════════════════════════════════════════
+
+process.on(
+    "unhandledRejection",
+    (error) => {
+
+        console.error(
+            chalk.red(
+                "❌ UNHANDLED REJECTION:"
+            ),
+            error
+        );
+
+    }
+);
+
+process.on(
+    "uncaughtException",
+    (error) => {
+
+        console.error(
+            chalk.red(
+                "❌ UNCAUGHT EXCEPTION:"
+            ),
+            error
+        );
+
+    }
+);
